@@ -1,5 +1,5 @@
 <?php
-
+//seeders add data
 namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
